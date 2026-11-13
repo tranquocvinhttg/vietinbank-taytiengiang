@@ -1,0 +1,17 @@
+{
+  "name": "vietinbank-ttg-super-app",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/local.test.mjs tests/content.test.mjs tests/deposit.test.mjs tests/engine.test.mjs tests/reports.test.mjs"
+  },
+  "peerDependencies": {
+    "react": ">=18"
+  },
+  "peerDependenciesMeta": {
+    "react": {
+      "optional": true
+    }
+  }
+}

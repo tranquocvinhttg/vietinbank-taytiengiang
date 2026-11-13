@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="referrer" content="no-referrer">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; img-src data:; font-src data:; connect-src 'none'; base-uri 'none'; form-action 'none'">
+  <title>Công cụ tính lãi vay · VietinBank Tây Tiền Giang</title>
+  <style id="loan-brand-fonts">/* BRAND_FONTS */</style>
+  <style>/* APP_STYLES */</style>
+  <style>
+    body{margin:0;background:#f5faff}main{max-width:1100px;margin:0 auto;padding:24px}.standalone-brand{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:0 0 24px;font:13px Arial,sans-serif;color:#516d7c}.standalone-brand img{width:215px;max-width:65%}@media(max-width:480px){main{padding:16px}.standalone-brand{font-size:11px}.standalone-brand img{width:180px}}
+  </style>
+</head>
+<body>
+  <main>
+    <header class="standalone-brand"><img id="loan-brand-logo" src="BRAND_LOGO" alt="VietinBank Chi nhánh Tây Tiền Giang"><span>Tính toán trên thiết bị</span></header>
+    <div id="loan-calculator-standalone"></div>
+  </main>
+  <script>/* APP_BUNDLE */</script>
+  <script>
+    (() => {
+      const parentOrigin = new URLSearchParams(location.search).get('parentOrigin');
+      if (window.parent === window || !parentOrigin) return;
+      try {
+        const url = new URL(parentOrigin);
+        if (!['http:', 'https:'].includes(url.protocol) || url.origin !== parentOrigin) return;
+      } catch { return; }
+      new ResizeObserver(() => window.parent.postMessage({type:'vtb-loan-height',height:Math.ceil(document.documentElement.scrollHeight)}, parentOrigin)).observe(document.body);
+    })();
+  </script>
+</body>
+</html>

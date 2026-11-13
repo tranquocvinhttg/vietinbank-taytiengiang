@@ -1,0 +1,220 @@
+{
+  "source": "https://super-app-seven-lemon.vercel.app/giai-dap/tax_payment",
+  "retrieved": "2026-11-11",
+  "illustrations": "Reconstructed HTML illustrations with masked/sample data; source image host returned HTTP 403.",
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "Bước 1: Đăng nhập ứng dụng VietinBank Ipay",
+      "url": "https://pub-8db548912e6649bbabeb3b571024571e.r2.dev/Giai-dap-thac-mac/Nop-thue-dien-tu/6.1.png"
+    },
+    {
+      "no": 2,
+      "text": "Bước 2: Chọn [Tất cả dịch vụ]",
+      "url": "https://pub-8db548912e6649bbabeb3b571024571e.r2.dev/Giai-dap-thac-mac/Nop-thue-dien-tu/6.2.jpg"
+    },
+    {
+      "no": 3,
+      "text": "Bước 3: Tại màn hình Tất cả dịch vụ. Chọn [Dịch vụ thanh toán]",
+      "url": "https://pub-8db548912e6649bbabeb3b571024571e.r2.dev/Giai-dap-thac-mac/Nop-thue-dien-tu/6.3.jpg"
+    },
+    {
+      "no": 4,
+      "text": "Bước 4: Chọn [Nộp thuế điện tử]",
+      "url": "https://pub-8db548912e6649bbabeb3b571024571e.r2.dev/Giai-dap-thac-mac/Nop-thue-dien-tu/6.4.jpg"
+    },
+    {
+      "no": 5,
+      "text": "Bước 5: Chọn [Nộp thuế]",
+      "url": "https://pub-8db548912e6649bbabeb3b571024571e.r2.dev/Giai-dap-thac-mac/Nop-thue-dien-tu/6.5.jpg"
+    },
+    {
+      "no": 6,
+      "text": "Bước 6: Tại màn hình Thuế nội địa, droplist [Hình thức nộp thuế]",
+      "url": "https://pub-8db548912e6649bbabeb3b571024571e.r2.dev/Giai-dap-thac-mac/Nop-thue-dien-tu/6.6.jpg"
+    },
+    {
+      "no": 7,
+      "text": "Bước 7: Chọn [Tự kê khai] để nộp cho chính mình hoặc chọn [Nộp cho người khác]. Trường hợp chọn Truy vấn bằng Mã số thuế chính là số căn cước công dân.",
+      "url": "https://pub-8db548912e6649bbabeb3b571024571e.r2.dev/Giai-dap-thac-mac/Nop-thue-dien-tu/6.7.jpg"
+    },
+    {
+      "no": 8,
+      "text": "Bước 8: Nhấn button [Truy vấn]",
+      "url": "https://pub-8db548912e6649bbabeb3b571024571e.r2.dev/Giai-dap-thac-mac/Nop-thue-dien-tu/6.8.jpg"
+    },
+    {
+      "no": 9,
+      "text": "Bước 9: Màn hình hiển thị thông tin người nộp thuế và danh sách các khoản chưa nộp. Khách hàng chọn: [1. Tài khoản nguồn; 2. Thông tin người nộp thuế, người nộp thay]",
+      "url": "https://pub-8db548912e6649bbabeb3b571024571e.r2.dev/Giai-dap-thac-mac/Nop-thue-dien-tu/6.9.jpg"
+    },
+    {
+      "no": 10,
+      "text": "Bước 10: Kiểm tra [Danh sách các khoản chưa nộp]",
+      "url": "https://pub-8db548912e6649bbabeb3b571024571e.r2.dev/Giai-dap-thac-mac/Nop-thue-dien-tu/6.10.jpg"
+    },
+    {
+      "no": 11,
+      "text": "Bước 11: Kiểm tra [Thông tin người nộp thuế]",
+      "url": "https://pub-8db548912e6649bbabeb3b571024571e.r2.dev/Giai-dap-thac-mac/Nop-thue-dien-tu/6.11.jpg"
+    },
+    {
+      "no": 12,
+      "text": "Bước 12: Kiểm tra [Số tiền thuế] và [Các thông tin liên quan đến món thuế cần nộp]",
+      "url": "https://pub-8db548912e6649bbabeb3b571024571e.r2.dev/Giai-dap-thac-mac/Nop-thue-dien-tu/6.12.jpg"
+    },
+    {
+      "no": 13,
+      "text": "Bước 13: Kiểm tra thông tin và nhấn button [Nộp thuế]",
+      "url": "https://pub-8db548912e6649bbabeb3b571024571e.r2.dev/Giai-dap-thac-mac/Nop-thue-dien-tu/6.13.jpg"
+    },
+    {
+      "no": 14,
+      "text": "Bước 14: Nhập OTP SMS hoặc Soft OTP",
+      "url": "https://pub-8db548912e6649bbabeb3b571024571e.r2.dev/Giai-dap-thac-mac/Nop-thue-dien-tu/6.14.jpg"
+    },
+    {
+      "no": 15,
+      "text": "Bước 15: Chọn [Xác nhận & Hoàn tất]",
+      "url": "https://pub-8db548912e6649bbabeb3b571024571e.r2.dev/Giai-dap-thac-mac/Nop-thue-dien-tu/6.15.jpg"
+    },
+    {
+      "no": 16,
+      "text": "Bước 16: Nhận chứng từ nộp NSNN. Chọn tab [Lịch sử nộp thuế]",
+      "url": "https://pub-8db548912e6649bbabeb3b571024571e.r2.dev/Giai-dap-thac-mac/Nop-thue-dien-tu/6.16.jpg"
+    },
+    {
+      "no": 17,
+      "text": "Bước 17: Chọn khoảng thời gian truy vấn >> Nhấn chọn [Áp dụng]",
+      "url": "https://pub-8db548912e6649bbabeb3b571024571e.r2.dev/Giai-dap-thac-mac/Nop-thue-dien-tu/6.17.jpg"
+    },
+    {
+      "no": 18,
+      "text": "Bước 18: Chọn [Chi tiết] để xem toàn bộ thông tin, trạng thái của món thuế",
+      "url": "https://pub-8db548912e6649bbabeb3b571024571e.r2.dev/Giai-dap-thac-mac/Nop-thue-dien-tu/6.18.jpg"
+    },
+    {
+      "no": 19,
+      "text": "Bước 19: Chọn button [Nhận chứng từ qua Email], có thể thay đổi Email nhận chứng từ",
+      "url": "https://pub-8db548912e6649bbabeb3b571024571e.r2.dev/Giai-dap-thac-mac/Nop-thue-dien-tu/6.19.jpg"
+    },
+    {
+      "no": 20,
+      "text": "Bước 20: Truy cập Email đã đăng ký để nhận Giấy nộp tiền vào NSNN",
+      "url": "https://pub-8db548912e6649bbabeb3b571024571e.r2.dev/Giai-dap-thac-mac/Nop-thue-dien-tu/6.20.jpg"
+    }
+  ],
+  "content": {
+    "title": "Nộp thuế điện tử trên VietinBank iPay",
+    "need": "Chuẩn bị iPay, tài khoản thanh toán đủ số dư, thông tin người nộp thuế và phương thức xác thực đang sử dụng. Luồng minh họa gồm nộp thuế và tra cứu, nhận chứng từ.",
+    "steps": [
+      {
+        "h": "Đăng nhập VietinBank iPay",
+        "d": "Mở ứng dụng VietinBank iPay Mobile và đăng nhập bằng phương thức Quý khách đã thiết lập.",
+        "tip": "Chỉ nhập thông tin đăng nhập trong ứng dụng iPay. Các màn hình ở đây là hình minh họa dựng lại, dùng dữ liệu mẫu."
+      },
+      {
+        "h": "Mở Tất cả dịch vụ",
+        "d": "Tại màn hình chính iPay, chọn Tất cả dịch vụ để xem các nhóm chức năng.",
+        "tip": "Vị trí chức năng có thể thay đổi theo phiên bản ứng dụng."
+      },
+      {
+        "h": "Chọn Dịch vụ thanh toán",
+        "d": "Tại màn hình Tất cả dịch vụ, chọn nhóm Dịch vụ thanh toán.",
+        "tip": "Tìm trong danh sách nhóm dịch vụ nếu chức năng chưa nằm trong vùng đang hiển thị."
+      },
+      {
+        "h": "Chọn Nộp thuế điện tử",
+        "d": "Trong nhóm Dịch vụ thanh toán, chọn Nộp thuế điện tử để vào chức năng thuế.",
+        "tip": "Thực hiện giao dịch trên iPay; trang hướng dẫn này không tiếp nhận tiền hoặc thông tin bảo mật."
+      },
+      {
+        "h": "Vào mục Nộp thuế",
+        "d": "Tại chức năng Nộp thuế điện tử, chọn Nộp thuế. Mục Lịch sử nộp thuế được dùng sau để kiểm tra giao dịch và nhận chứng từ.",
+        "tip": "Các bước tiếp theo minh họa luồng thuế nội địa theo hướng dẫn nguồn."
+      },
+      {
+        "h": "Mở Hình thức nộp thuế",
+        "d": "Tại màn hình Thuế nội địa, mở danh sách Hình thức nộp thuế để chọn cách thực hiện phù hợp.",
+        "tip": "Đọc tên hình thức và các trường ứng dụng yêu cầu trước khi nhập."
+      },
+      {
+        "h": "Chọn hình thức và nhập thông tin",
+        "d": "Chọn hình thức phù hợp theo iPay, như Tự kê khai, Nộp cho người khác hoặc truy vấn theo mã số thuế. Nhập thông tin đúng người có nghĩa vụ nộp thuế. Các bước tiếp theo minh họa truy vấn các khoản chưa nộp.",
+        "tip": "Dùng mã số thuế hoặc số định danh đúng hồ sơ thuế và yêu cầu thực tế của iPay; không mặc định mọi mã số thuế đều là số căn cước. Với hình thức khác, bổ sung thông tin theo màn hình tương ứng."
+      },
+      {
+        "h": "Truy vấn khoản thuế",
+        "d": "Kiểm tra thông tin vừa nhập, sau đó chọn Truy vấn. Chờ iPay lấy thông tin người nộp thuế và các khoản thuế liên quan.",
+        "tip": "Nếu không có kết quả hoặc thông tin không khớp, kiểm tra lại mã và hồ sơ thuế trước khi tiếp tục."
+      },
+      {
+        "h": "Chọn tài khoản nguồn và người nộp thuế",
+        "d": "Tại kết quả truy vấn, kiểm tra và chọn tài khoản nguồn dùng để thanh toán. Đối chiếu thông tin người nộp thuế; bổ sung thông tin người nộp thay nếu có yêu cầu.",
+        "tip": "Phân biệt người có nghĩa vụ nộp thuế với người thực hiện nộp thay. Tài khoản nguồn phải có đủ số dư cho giao dịch."
+      },
+      {
+        "h": "Kiểm tra các khoản chưa nộp",
+        "d": "Xem Danh sách các khoản chưa nộp và chọn đúng khoản cần thanh toán. Kiểm tra nội dung, kỳ thuế và số tiền hiển thị.",
+        "tip": "Không chọn khoản thuế đã nộp hoặc khoản chưa xác định rõ. Nếu dữ liệu chưa khớp, xác minh trước khi xác nhận."
+      },
+      {
+        "h": "Đối chiếu thông tin người nộp thuế",
+        "d": "Kiểm tra phần Thông tin người nộp thuế, gồm tên, mã số thuế hoặc số định danh và các thông tin liên quan đang hiển thị trên iPay.",
+        "tip": "Thông tin phải thuộc đúng người có nghĩa vụ nộp thuế, kể cả khi Quý khách đang nộp thay."
+      },
+      {
+        "h": "Kiểm tra số tiền và thông tin khoản thuế",
+        "d": "Đối chiếu Số tiền thuế và các thông tin của khoản cần nộp với hồ sơ hoặc thông báo thuế. Xem đầy đủ các mục iPay hiển thị trước khi tiếp tục.",
+        "tip": "Không tự suy đoán mã, nội dung hoặc cơ quan thu nếu thông tin chưa rõ; liên hệ đơn vị liên quan để xác minh."
+      },
+      {
+        "h": "Kiểm tra lại và chọn Nộp thuế",
+        "d": "Rà soát tài khoản nguồn, thông tin người nộp thuế, các khoản đã chọn và tổng số tiền. Nếu chính xác và muốn thực hiện giao dịch, chọn Nộp thuế.",
+        "tip": "Đọc mọi thông báo hoặc khoản phí iPay hiển thị trước khi xác nhận."
+      },
+      {
+        "h": "Xác thực bằng OTP",
+        "d": "Thực hiện xác thực bằng OTP SMS hoặc Soft OTP theo yêu cầu thực tế trên iPay. Chỉ sử dụng mã còn hiệu lực cho giao dịch của chính Quý khách.",
+        "tip": "Không cung cấp OTP cho người khác hoặc nhập mã lên trang hướng dẫn. Mã trong hình được thay bằng ký hiệu che."
+      },
+      {
+        "h": "Xác nhận và kiểm tra kết quả",
+        "d": "Kiểm tra lại thông tin trên màn hình xác nhận, sau đó chọn Xác nhận & Hoàn tất. Chờ iPay trả kết quả và đọc trạng thái xử lý của giao dịch.",
+        "tip": "Nếu chưa rõ giao dịch thành công hay chưa, kiểm tra lịch sử trước khi thực hiện lại để tránh nộp trùng."
+      },
+      {
+        "h": "Mở Lịch sử nộp thuế",
+        "d": "Quay lại chức năng Nộp thuế điện tử và chọn Lịch sử nộp thuế để tra cứu giao dịch, trạng thái và chứng từ nộp ngân sách nhà nước.",
+        "tip": "Thông tin trong lịch sử là căn cứ kiểm tra kết quả thực tế; thao tác xác nhận ở bước trước chưa thay thế việc kiểm tra trạng thái."
+      },
+      {
+        "h": "Chọn khoảng thời gian tra cứu",
+        "d": "Chọn khoảng thời gian chứa ngày thực hiện giao dịch cần tìm, sau đó chọn Áp dụng để lọc lịch sử.",
+        "tip": "Mở rộng khoảng thời gian nếu chưa thấy giao dịch cần tra cứu."
+      },
+      {
+        "h": "Xem Chi tiết giao dịch",
+        "d": "Tại giao dịch cần tra cứu, chọn Chi tiết. Kiểm tra toàn bộ thông tin, số tiền và trạng thái khoản thuế.",
+        "tip": "Chỉ chuyển sang nhận chứng từ khi giao dịch đã có trạng thái phù hợp trên iPay. Nếu đang xử lý hoặc chưa rõ kết quả, liên hệ hỗ trợ trước khi nộp lại."
+      },
+      {
+        "h": "Chọn nhận chứng từ qua email",
+        "d": "Tại chi tiết giao dịch, chọn Nhận chứng từ qua Email. Kiểm tra địa chỉ nhận; thay đổi email nếu cần và thực hiện gửi theo hướng dẫn của ứng dụng.",
+        "tip": "Dùng email Quý khách có quyền truy cập và kiểm tra kỹ địa chỉ trước khi gửi chứng từ."
+      },
+      {
+        "h": "Mở email và lưu chứng từ",
+        "d": "Truy cập hộp thư đã chọn để nhận Giấy nộp tiền vào ngân sách nhà nước. Mở chứng từ, đối chiếu thông tin giao dịch và lưu lại để tra cứu khi cần.",
+        "tip": "Kiểm tra cả thư rác nếu chưa nhận được email. Nếu vẫn chưa có chứng từ hoặc trạng thái chưa khớp, kiểm tra lại trên iPay và liên hệ VietinBank."
+      }
+    ],
+    "notes": [
+      "Nội dung được biên tập từ 20 bước trong đường dẫn hướng dẫn do Quý khách cung cấp. Màn hình minh họa được dựng lại bằng dữ liệu mẫu; không chứa thông tin khách hàng thật.",
+      "Giao diện, phương thức xác thực và trường thông tin có thể khác theo phiên bản iPay hoặc hình thức nộp thuế. Thực hiện theo yêu cầu thực tế trên ứng dụng.",
+      "Mã số thuế, số định danh, thông tin người nộp thay và khoản thuế phải khớp hồ sơ thuế. Nếu chưa rõ thông tin, xác minh với cơ quan thuế hoặc VietinBank trước khi xác nhận.",
+      "Kiểm tra lịch sử và trạng thái khi giao dịch chưa rõ kết quả; tránh thực hiện lặp lại cùng khoản thuế.",
+      "Không chia sẻ mật khẩu, OTP hoặc Soft OTP. Khi cần hỗ trợ, liên hệ tổng đài 1900 558 868 hoặc Chi nhánh/Phòng giao dịch VietinBank."
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "release": {
+    "date": "2026-11-13",
+    "automated_tests": {
+      "passed": 54,
+      "failed": 0,
+      "command": "npm test"
+    },
+    "browser_checks": [
+      "Danh mục 4 nhóm với 7 mục từ các liên kết, 8 mục chờ ảnh đang ẩn",
+      "Thêm sản phẩm, sửa chữ, thêm đoạn thuyết minh và tải ảnh riêng",
+      "Thêm nhóm; tự lưu và mở lại sau tải trang",
+      "Tải bản sao JSON; khôi phục thành công",
+      "Xuất index.html, mở lại với dữ liệu và ảnh đã sửa",
+      "Bản xuất giữ nguyên đủ 8 khối CSS của ứng dụng",
+      "Bố cục chi tiết 320/390/768/1280 px không tràn ngang; biểu mẫu ở 320 px",
+      "Công cụ tiền gửi và 20 bước nộp thuế tiếp tục hoạt động",
+      "Địa phương: thêm/sửa địa điểm; giữ ảnh và chữ riêng; liên kết điện thoại/Facebook/Maps",
+      "Địa phương: lưu trữ/khôi phục, nhân bản, sắp xếp, thêm nhóm, sửa tiêu đề trang",
+      "Địa phương: tự lưu sau tải lại, JSON/HTML giữ nội dung và ảnh, nhập về mã nguồn và dựng lại",
+      "Địa phương: tìm kiếm, bố cục 320/390/768/1280 px; biểu mẫu quản trị 320 px"
+    ],
+    "source_round_trip": "Đã nhập HTML xuất từ giao diện về JSON/ảnh riêng, dựng lại và đối chiếu dữ liệu thành công.",
+    "limits": [
+      "Chưa nhận được ngan hang so 1–4 và the 1–4.",
+      "Chưa tải được ảnh gốc từ 7 trang do CAPTCHA. Chỉ có ảnh eFAST bổ sung từ API Portal chính thức.",
+      "Thông tin lãi suất/ưu đãi chưa xác minh không được coi là đang hiệu lực.",
+      "Chưa triển khai thay đổi lên GitHub hoặc Vercel của người dùng; đây là bộ tệp để người dùng cập nhật."
+    ],
+    "images": {
+      "efast-dashboard.png": {
+        "source": "https://openapi.vietinbank.vn/assets/images/digital-bank/new-design/right.png",
+        "sha256": "149964ed1233a915307b7f450898c54291533f016f49d08e66e9c5785575599b",
+        "modified": false
+      }
+    },
+    "local_admin": {
+      "default_groups": 3,
+      "initial_places": 0,
+      "new_tests": 8,
+      "source": "content/local.json",
+      "guide": "docs/LOCAL_EDITING.md"
+    }
+  },
+  "index_sha256": "2edb7a3865a0ce7aff4fbdfb4f5d902fc0a6a13e04cc6cb769addda47b2785b9",
+  "index_bytes": 2199040,
+  "vercel": {
+    "$schema": "https://openapi.vercel.sh/vercel.json",
+    "framework": null,
+    "buildCommand": "",
+    "installCommand": "",
+    "outputDirectory": "."
+  },
+  "checks": {
+    "root_index_is_full_super_app": true,
+    "has_independent_catalog_and_images": true,
+    "has_local_admin_and_backup_export": true,
+    "requirements_txt_absent": true,
+    "no_test_products": true
+  }
+}

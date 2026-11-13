@@ -1,0 +1,53 @@
+{
+  "title": "Mở thẻ tín dụng trên VietinBank iPay",
+  "need": "Chuẩn bị ứng dụng VietinBank iPay, kết nối mạng và phương thức xác thực đang sử dụng. Bài minh họa luồng phát hành thẻ khi iPay đã hiển thị tài khoản thẻ tín dụng phù hợp.",
+  "steps": [
+    {
+      "h": "Đăng nhập VietinBank iPay",
+      "d": "Mở ứng dụng VietinBank iPay Mobile. Nhập mật khẩu rồi chọn Đăng nhập, hoặc sử dụng phương thức đăng nhập đã thiết lập trên ứng dụng để vào tài khoản của Quý khách.",
+      "tip": "Chỉ nhập thông tin đăng nhập trên ứng dụng VietinBank iPay. Tên khách hàng trong ảnh đã được che."
+    },
+    {
+      "h": "Vào danh sách thẻ",
+      "d": "Tại màn hình chính iPay, chạm vào vùng hình thẻ lớn đã được khoanh khung đen để mở Danh sách thẻ.",
+      "tip": "Vị trí cần chọn là hình thẻ ở phía trên, ngay dưới phần thông tin khách hàng."
+    },
+    {
+      "h": "Chọn Mở thẻ",
+      "d": "Tại Danh sách thẻ, chọn nhóm Thẻ tín dụng. Bấm Mở thẻ ở góc trên bên phải, tại vị trí được khoanh trong ảnh.",
+      "tip": "Các thẻ đang có, số thẻ và hạn mức trong danh sách thuộc tài khoản minh họa; thông tin cá nhân và tài chính đã được che."
+    },
+    {
+      "h": "Chọn loại thẻ muốn phát hành",
+      "d": "Trong Thế giới thẻ, xem các sản phẩm thuộc nhóm Thẻ tín dụng. Đọc thông tin sản phẩm rồi chọn Mở thẻ ngay bên dưới loại thẻ Quý khách muốn sử dụng. Bộ ảnh minh họa lựa chọn JCB Credit Ultimate SaviY.",
+      "tip": "Kiểm tra phí phát hành, phí thường niên, ưu đãi và điều kiện đang hiển thị trên iPay. Thông tin phí, ưu đãi trong ảnh là thông tin minh họa tại thời điểm chụp."
+    },
+    {
+      "h": "Kiểm tra thông tin và chọn nơi nhận thẻ",
+      "d": "Đối chiếu tên in trên thẻ, chọn tài khoản thẻ tín dụng và tài khoản trả phí phù hợp. Chọn nơi nhận thẻ cùng thông tin giao nhận, quản lý thẻ; ảnh minh họa chọn Nhận tại chi nhánh. Mở đọc biểu phí, điều kiện và điều khoản sử dụng thẻ. Nếu đồng ý, đánh dấu hai ô xác nhận được khoanh rồi chọn Tiếp tục.",
+      "tip": "Cuộn màn hình để kiểm tra đủ thông tin trước khi tiếp tục. Chỉ đánh dấu đồng ý sau khi đã đọc và hiểu các nội dung liên quan."
+    },
+    {
+      "h": "Đọc hợp đồng và xác nhận mở thẻ",
+      "d": "Đọc Giấy đề nghị kiêm hợp đồng kèm điều kiện, điều khoản phát hành và sử dụng thẻ. Kiểm tra thông tin trong hợp đồng. Nếu đồng ý, đánh dấu các xác nhận về hợp đồng, biểu phí và thời điểm hiệu lực như các ô đã được khoanh, sau đó chọn Xác nhận mở thẻ.",
+      "tip": "Đọc toàn bộ nội dung hợp đồng trên iPay, kể cả phần cần cuộn để xem. Mã CIF khách hàng trong ảnh đã được che."
+    },
+    {
+      "h": "Xác thực khuôn mặt",
+      "d": "Thực hiện xác thực khuôn mặt khi iPay yêu cầu; cho phép sử dụng camera nếu cần. Đưa khuôn mặt vào khung hình, giữ điện thoại ổn định và làm theo các chỉ dẫn trên màn hình. Chờ ứng dụng chuyển sang bước tiếp theo.",
+      "tip": "Chọn nơi đủ sáng, giữ khuôn mặt rõ và không bị che. Ảnh minh họa chỉ thể hiện khung camera; khi thực hiện, Quý khách đưa khuôn mặt của mình vào khung."
+    },
+    {
+      "h": "Xác nhận Soft OTP và theo dõi kết quả",
+      "d": "Tại Xác nhận giao dịch, kiểm tra lại loại thẻ, hình thức phát hành, tên in trên thẻ, tài khoản thẻ tín dụng, tài khoản trả phí và nơi nhận thẻ. Thực hiện xác thực Soft OTP theo hướng dẫn của iPay, sau đó chọn Xác nhận & Hoàn tất ở vị trí được khoanh. Chờ thông báo và kiểm tra kết quả hoặc trạng thái xử lý trên ứng dụng.",
+      "tip": "Không cung cấp Soft OTP cho người khác. Bộ ảnh kết thúc tại màn hình xác nhận; kết quả phát hành phải căn cứ thông báo thực tế của iPay."
+    }
+  ],
+  "notes": [
+    "Bài minh họa thao tác phát hành thẻ trên iPay khi ứng dụng đã hiển thị tài khoản thẻ tín dụng phù hợp. Nếu chưa có tài khoản hoặc chưa thấy lựa chọn tương ứng, liên hệ VietinBank để được hướng dẫn theo điều kiện của Quý khách.",
+    "Thẻ được phép phát hành, hạn mức, biểu phí, ưu đãi và phương thức xác thực phụ thuộc thông tin iPay hiển thị tại thời điểm thực hiện.",
+    "Chỉ xác nhận hợp đồng và giao dịch sau khi đã kiểm tra thông tin, đọc và đồng ý với các điều khoản, biểu phí.",
+    "Tên, số thẻ/tài khoản, hạn mức, số dư, CIF và mã Soft OTP trong ảnh đã được che. Không nhập thông tin bảo mật lên trang hướng dẫn này.",
+    "Sau bước xác nhận, theo dõi thông báo kết quả trên iPay. Khi cần hỗ trợ, liên hệ Chi nhánh/Phòng giao dịch hoặc tổng đài 1900 558 868."
+  ]
+}

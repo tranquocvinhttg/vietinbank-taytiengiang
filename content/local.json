@@ -1,0 +1,10 @@
+{
+  "title": "Khám phá địa phương",
+  "lead": "Khám phá địa điểm ăn uống, lưu trú và trải nghiệm tại địa phương.",
+  "groups": [
+    {"id":"food","name":"Ăn uống","lead":"Quán ăn, cà phê và những điểm hẹn.","icon":"utensils","order":1,"visible":true},
+    {"id":"stay","name":"Khách sạn & lưu trú","lead":"Lựa chọn nơi nghỉ chân cho hành trình.","icon":"bed-double","order":2,"visible":true},
+    {"id":"explore","name":"Vui chơi & khám phá","lead":"Điểm đến và trải nghiệm trên địa bàn.","icon":"compass","order":3,"visible":true}
+  ],
+  "places": []
+}

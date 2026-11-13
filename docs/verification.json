@@ -1,0 +1,50 @@
+{
+  "unit_tests_passed": 34,
+  "browser_checks": [
+    "Desktop 1024 px",
+    "Mobile 320 px, no page overflow",
+    "Blank-input validation",
+    "Short-term worked example 3,506,849 VND",
+    "Long-term equal-principal and PMT",
+    "Comparison with shared parameters",
+    "Input changes invalidate export",
+    "Add/delete transactions",
+    "480 periods and UI pagination",
+    "Example confirmation required for export",
+    "Actual XLSX and HTML browser download events",
+    "Print button opens A4 report",
+    "All 39 pages of 480-period report checked for content/footer overlap",
+    "Short report 2 A4 pages with brand font and logo",
+    "Quick Utilities entry point",
+    "Deposit: both tabs at 320/390/768/1280 px; correct selected tab and no horizontal page overflow",
+    "Tax guide: all 20 illustrations and actions render; 320/390/768/1280 px no horizontal page overflow",
+    "Tax guide: step 15 OTP and confirmation action do not overlap on mobile"
+  ],
+  "integration_limits": [
+    "No deployment to the existing Vercel/GitHub website",
+    "React adapter not executed in a host React project",
+    "Google AI Studio not tested",
+    "PDF uses the browser print workflow; no generated PDF file is included"
+  ],
+  "data": "Fictitious examples only; no customer records in the package.",
+  "deposit_source_parity": {
+    "source": "https://phuongtranttg82-maker.github.io/tinh-lai-VTBTTG/",
+    "term_rate_start_date_combinations": 168,
+    "additional_checks": [
+      "Original defaults",
+      "Leap-year actual/365",
+      "End-of-month maturity",
+      "Loan minimum rate",
+      "Both comparison outcomes",
+      "Input validation and 100% loan ceiling",
+      "Independent admin/deposit tab attributes"
+    ]
+  },
+  "tax_guide": {
+    "steps": 20,
+    "screens_checked": 20,
+    "source": "https://super-app-seven-lemon.vercel.app/giai-dap/tax_payment",
+    "illustrations": "Reconstructed with placeholder data; original image host returned HTTP 403",
+    "admin_preview": "Verified step 20 opens from shared editor"
+  }
+}

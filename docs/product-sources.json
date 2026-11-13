@@ -1,0 +1,76 @@
+{
+  "checkedAt": "2026-11-13",
+  "retrieval": [
+    {
+      "id": "loan-small",
+      "url": "https://www.vietinbank.vn/ca-nhan/san-pham-dich-vu/cho-vay/cho-vay-san-xuat-kinh-doanhnho-le-30-html",
+      "final": "https://www.vietinbank.vn/ca-nhan/san-pham-dich-vu/cho-vay/cho-vay-san-xuat-kinh-doanhnho-le-30-html",
+      "status": 405,
+      "bytes": 2588,
+      "head": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <title"
+    },
+    {
+      "id": "loan-car",
+      "url": "https://www.vietinbank.vn/ca-nhan/san-pham-dich-vu/vay-mua-xe",
+      "final": "https://www.vietinbank.vn/ca-nhan/san-pham-dich-vu/vay-mua-xe",
+      "status": 405,
+      "bytes": 2588,
+      "head": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <title"
+    },
+    {
+      "id": "loan-sxkd",
+      "url": "https://www.vietinbank.vn/ca-nhan/san-pham-dich-vu/cho-vay/vietinbank-mo-rong-lua-chon-von-vay-sxkd-lai-suat-tu-7-8-nam-10-html",
+      "final": "https://www.vietinbank.vn/ca-nhan/san-pham-dich-vu/cho-vay/vietinbank-mo-rong-lua-chon-von-vay-sxkd-lai-suat-tu-7-8-nam-10-html",
+      "status": 405,
+      "bytes": 2588,
+      "head": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <title"
+    },
+    {
+      "id": "loan-home",
+      "url": "https://www.vietinbank.vn/ca-nhan/san-pham-dich-vu/cho-vay/cho-vay-nhan-quyen-su-dung-dat-mua-xay-dung-sua-chua-nha-va-hoac-cong-trinh-xay-dung-30-html",
+      "final": "https://www.vietinbank.vn/ca-nhan/san-pham-dich-vu/cho-vay/cho-vay-nhan-quyen-su-dung-dat-mua-xay-dung-sua-chua-nha-va-hoac-cong-trinh-xay-dung-30-html",
+      "status": 405,
+      "bytes": 2588,
+      "head": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <title"
+    },
+    {
+      "id": "saving-term",
+      "url": "https://www.vietinbank.vn/ca-nhan/san-pham-dich-vu/tien-gui/tiet-kiem-co-ky-han-thong-thuong-30-html",
+      "final": "https://www.vietinbank.vn/ca-nhan/san-pham-dich-vu/tien-gui/tiet-kiem-co-ky-han-thong-thuong-30-html",
+      "status": 405,
+      "bytes": 2588,
+      "head": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <title"
+    },
+    {
+      "id": "saving-online",
+      "url": "https://www.vietinbank.vn/ca-nhan/san-pham-dich-vu/tien-gui/tien-gui-tiet-kiem-online-30-html",
+      "final": "https://www.vietinbank.vn/ca-nhan/san-pham-dich-vu/tien-gui/tien-gui-tiet-kiem-online-30-html",
+      "status": 405,
+      "bytes": 2588,
+      "head": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <title"
+    },
+    {
+      "id": "efast-online",
+      "url": "https://www.vietinbank.vn/doanh-nghiep/cong-cu-tien-ich/eFAST/mo-tai-khoan-online-danh-cho-khdn",
+      "final": "https://www.vietinbank.vn/doanh-nghiep/cong-cu-tien-ich/eFAST/mo-tai-khoan-online-danh-cho-khdn",
+      "status": 405,
+      "bytes": 2588,
+      "head": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <title"
+    }
+  ],
+  "missingAttachments": [
+    "ngan hang so 1",
+    "ngan hang so 2",
+    "ngan hang so 3",
+    "ngan hang so 4",
+    "the 1",
+    "the 2",
+    "the 3",
+    "the 4"
+  ],
+  "notes": [
+    "Không tải được ảnh gốc từ 7 trang do CAPTCHA.",
+    "Không coi thông tin lãi suất trong tiêu đề liên kết là ưu đãi hiện hành.",
+    "Các mô tả khoản vay chỉ tóm tắt mục đích thể hiện trong tiêu đề, không bổ sung hạn mức/thời hạn chưa kiểm chứng."
+  ]
+}
